@@ -3,6 +3,7 @@
 <p><b>Tools used :-</b>
   <ul>
     <li>Kaggle: Using titanic dataset from this website</li>
+    <li>Jupyter Notebook: One of the best platform to code, display output and markdowns on same page</li>
     <li>Python: It has predefined libraries making data analysis easier
         <ul><i>Libraries Used :-
           <li>Pandas: For working with Series and DataFrame</li>
